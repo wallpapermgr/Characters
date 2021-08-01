@@ -5,7 +5,7 @@ Characters wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/Characters/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/Characters/raw/main/install.sh)"
 ```
   
 Manual install:
